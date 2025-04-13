@@ -12,7 +12,7 @@ docker-compose up
 ### Usage
 
 API endpoint documentation can be accessed by visiting `http://127.0.0.1:8000/docs`.  
-API can be accessed interactively also from thesame endpoint.
+API can be accessed interactively also from the same endpoint.
 
 ### Vulnerable System
 Vulnerable Endpoint: `http://127.0.0.1:8000/api/v1/users/me/info?user_id=1`  
